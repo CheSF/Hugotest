@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "The Che, Harsh, & Kent Test Site and Variety Hour"
+theme = "ananke"
+
